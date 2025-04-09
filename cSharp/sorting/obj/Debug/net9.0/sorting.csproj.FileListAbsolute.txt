@@ -12,3 +12,4 @@ C:\repo\data structures and algorithms\cSharp\sorting\obj\Debug\net9.0\refint\so
 C:\repo\data structures and algorithms\cSharp\sorting\obj\Debug\net9.0\sorting.pdb
 C:\repo\data structures and algorithms\cSharp\sorting\obj\Debug\net9.0\sorting.genruntimeconfig.cache
 C:\repo\data structures and algorithms\cSharp\sorting\obj\Debug\net9.0\ref\sorting.dll
+C:\repo\data structures and algorithms\cSharp\sorting\obj\Debug\net9.0\sorting.sourcelink.json
